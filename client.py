@@ -2,7 +2,7 @@ import asyncio
 import websockets
 import json
 import time
-from Bot.Player import Player
+from Tatoyasu.Player import Player
 import argparse
 import socket
 
